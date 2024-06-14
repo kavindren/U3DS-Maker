@@ -9,19 +9,11 @@ x64 OS
 
 `zlib-ng2.dll`
 
-### Linux:
-x64 OS
-
-`zlib-ng`
-
 ## Installation
 Download the release version and extract it anywhere you want.
 
 ### Windows:
 Download the release version of [zlib-ng](https://github.com/zlib-ng/zlib-ng) and extract the `zlib-ng2.dll` into System32 folder.
-
-### Linux:
-Install `zlib-ng` from your package manager.
 
 ## Issues reporting
 You can report any issues you have found in "Issues" page.
