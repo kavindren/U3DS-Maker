@@ -12,7 +12,7 @@ x64 OS
 ### Linux:
 x64 OS
 
-`zlib-ng`
+`tar`, `wget` installed
 
 ## Installation
 Download the release version and extract it anywhere you want.
@@ -21,7 +21,13 @@ Download the release version and extract it anywhere you want.
 Download the release version of [zlib-ng](https://github.com/zlib-ng/zlib-ng) and extract the `zlib-ng2.dll` into System32 folder.
 
 ### Linux:
-Install `zlib-ng` from your package manager.
+Install  `tar` and `wget` from your package manager
+
+
+Run the executable from directory where you have extracted the program:
+
+`./u3dsmaker`
+> If you cant start the app, try `chmod +x u3dsmaker` and start again
 
 ## Issues reporting
 You can report any issues you have found in "Issues" page.
